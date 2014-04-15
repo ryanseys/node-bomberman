@@ -1,6 +1,6 @@
 # node-bomberman
 
-Bomberman client made with [node-webkit][nw]
+Bomberman client made with [node-webkit][nw] &mdash; built to be used in conjuction with [ryanseys/bomberman](https://github.com/ryanseys/bomberman)
 
 Written in JavaScript, HTML and CSS
 
