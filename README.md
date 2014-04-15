@@ -28,3 +28,7 @@ zip app.nw index.html package.json bomberman.js bomberman.css bomberman.png game
 ![Game over](http://i.imgur.com/IjoHw8S.png)
 
 [nw]: https://github.com/rogerwang/node-webkit
+
+## License
+
+MIT &copy; Ryan Seys
