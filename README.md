@@ -6,7 +6,7 @@ Written in JavaScript, HTML and CSS
 
 ## Binaries
 
-Mac OS X - [download](https://www.dropbox.com/s/7lzil5vgqhljcfx/Bomberman.app.zip)
+Mac OS X - [download](https://github.com/ryanseys/node-bomberman/releases/download/1.0.0/Bomberman.app.zip)
 
 ## Usage
 
